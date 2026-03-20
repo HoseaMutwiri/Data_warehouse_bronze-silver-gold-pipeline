@@ -1,6 +1,6 @@
 # Data_warehouse_bronze-silver-gold-pipeline
 
-A modern MySQL Data Warehouse that consolidates sales data from ERP & CRM systems into a structured, analytics ready format using the Medallion Architecture.
+Built on the Medallion Architecture, this MySQL Data Warehouse unifies ERP & CRM sales data transforming raw inputs into a clean, structured, and analytics ready model.
 ---
 ## 📌 Overview
 
@@ -47,6 +47,7 @@ Data_warehouse_bronze-silver-gold-pipeline/
 3. **Model** – Build Star Schema (Facts + Dimensions) → Gold layer
 4. **Analyze** – Run analytics queries for business insights
 
+![Data_warehouse_diagram](Docs/Data_ware_housing_Diagram3.png)
 ---
 
 ## 📊 Key Insights

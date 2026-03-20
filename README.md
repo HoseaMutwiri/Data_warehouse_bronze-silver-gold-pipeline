@@ -34,7 +34,7 @@ Data_warehouse_bronze-silver-gold-pipeline/
 │   ├── silver/             # Cleaning & transformation scripts
 │   ├── gold/               # Star schema model scripts
 │   └── analytics/          # Reporting & insight queries
-├── docs/                   # Architecture diagrams & documentation
+├── Docs/                   # Architecture diagrams & documentation
 └── README.md
 ```
 
